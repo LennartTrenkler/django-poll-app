@@ -31,7 +31,7 @@ CSRF_TRUSTED_ORIGINS = ["https://mariannak.pythonanywhere.com", "https://lennart
 
 # Application definition
 
-INSTALLED_APPS = [    
+INSTALLED_APPS = [
     "polls.apps.PollsConfig",
     "django.contrib.admin",
     "django.contrib.auth",
