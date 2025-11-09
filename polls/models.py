@@ -1,5 +1,4 @@
 from django.db import models
-<<<<<<< HEAD
 from django.utils import timezone
 import datetime
 
